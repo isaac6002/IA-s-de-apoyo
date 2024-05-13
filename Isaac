@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            display: flex;
+            align-items: center; /* Centra verticalmente los elementos */
+            justify-content: flex-start; /* Alinea los elementos a la izquierda */
+        }
+        header img {
+            margin-right: 100px; /* Espacio entre la imagen y el texto */
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 0,1px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+<img src="https://cdn.urbantecno.com/urbantecno/2023/03/la-ia-ha-evolucionado-y-ha-llegado-a-nuevos-campos-como-lo-es-el-artistico-pudiendo-incluso-generar-imagenes-de-gran-calidad.jpg?width=800" alt="Logo de IA's de apoyo" width="300" height="200">
+ 
+        <h1>IA's de apoyo</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Acerca de</a></li>
+            <li><a href="#">Servicios</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+    <section>
+        <h2>10 HERRAMIENTAS DE INTELIGENCIA ARTIFICIAL</h2>
+        <p>En esta entrada comparto varias herramientas que utilizan Inteligencia Artificial 
+y pueden servirnos para ahorrar mucho tiempo en diferentes tareas, clasificadas por su función: 
+generador de texto, audio, imagen, vídeo o presentaciones. Algunas de las páginas web combinan 
+varias posibilidades en una, aunque pertenezcan a una categoría concreta.</p>
+
+<p> 1.<a href="https://www.craiyon.com/">.Craiyon</a></p> *generador de imagenes*
+<p> 2.<a href="https://midjourney.com/"> Midjourney </a></p>*Generador de imagenes*
+<p> 3.<a href="https://chat.openai.com/auth/login"> OpenAi </a></p>* Generador de texto*
+<p>4.<a href="https://copymatic.ai/"> Copymatic </a></p>*Generador de texto*
+<p> 5.<a href="https://www.jasper.ai/"> Jasper </a></p>*Generador de texto
+<p>7.<a href="https://www.copy.ai/"> Copy.AI </a></p> *Generador de Texto*
+<p> 6.<a href="https://play.ht/"> PLay.HT </a></p> *generador de Audio*
+<p> 8.<a href="https://concured.com/"> concured </a></p>*
+<p>9.<a href="https://rytr.me/"> Rytr </a></p>
+<p> 10.<a href="https://https://www.peppertype.ai/"> Peppertype </a></p>
+
+    </section>
+<style>
+   section {
+    padding: 10px;
+    text-align: center; /* Alinea el texto dentro de la sección al centro */
+}
+</style>
+    <footer>
+        <p>&copy; 2024 Mi Sitio Web</p>
+    </footer>
+</body>
